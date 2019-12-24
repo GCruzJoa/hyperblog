@@ -8,4 +8,5 @@ Un blog increible para el curso de [Git y Github de Platzi.](https://platzi.com/
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
-* Creado por increible Platzi Team.
+* Creado por increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
