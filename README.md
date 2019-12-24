@@ -10,3 +10,4 @@ Un blog increible para el curso de [Git y Github de Platzi.](https://platzi.com/
 * Trucos muy locos del profesor
 * Creado por increible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
